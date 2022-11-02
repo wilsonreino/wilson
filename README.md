@@ -20,4 +20,6 @@
 <h1>¿Cuál fue su primera canción?</h1>
 <p> Su salto a la música fue con 21334, un tema que alcanza ya los 22 millones de visitas en Youtube y que nos traslada a ese comienzo del rap. Tanto en Argentina como en España, la importancia recaía en la letra sobre una base potente y clara. El título de esta canción es un guiño al apellido del rapper, Ribba, escrito en números. “Pensé que era más complicado, ahora entiendo por qué hay tantos tarados con la bola de que son Young Beef, pero contra mí se van a ir viciados”, dice parte de la composición. 21334 será más tarde versionada dos años después por él mismo en una Redbull Session de la mano de Big Menu y un vídeo mucho más profesional.<p> <br/>
 <h1>Bibliografía</h1>
-<a href="https://los40.com/los40/2020/11/25/los40urban/1606308897_596870.html">Los 40</a>
+<ol>
+  <li><a href="https://los40.com/los40/2020/11/25/los40urban/1606308897_596870.html">Los 40</a></li> <br/>
+  <li><a href="https://www.buenamusica.com/dani-ribba/biografia">Buenamúsica</a></li>
