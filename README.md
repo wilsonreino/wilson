@@ -4,7 +4,7 @@
 
 ### Indice
 
-- [¿Quién es Dani Ribba?](¿Quién-es-Dani-Ribba?)
+- [¿Quién es Dani Ribba?](https://github.com/wilsonreino/wilson#sus-inicios-en-la-m%C3%BAsica)
 - [Sus inicios en la música](#sus-inicios-en-la-música)
 - [Primeros temas musicales](Su-paticipación-en-la-FM-y-Red-Bull)
 - [Tabla de su participación en competencias](Tabla-de-su-participación-en-competencias)
