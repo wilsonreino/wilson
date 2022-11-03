@@ -27,7 +27,7 @@ En 2016, Daniel Ribba empezó a subir su nivel notoriamente, mientras seguía co
 En el año 2016, el rapero ya siendo más conocido y apoyado por la gente, empezó a presentarse a más competencias underground en Argentina, como Irlanda Freestyle y Campito Free, entre otros. En su paso por el Quinto Escalón le brindó muchas batallas, con un gran nivel y un gran ingenio, siempre plantando cara a quien se le ponga delante, en ese momento.  
 ### ¿Cuál fue su primera canción?
 Su salto a la música fue con 21334, un tema que alcanza ya los 22 millones de visitas en Youtube y que nos traslada a ese comienzo del rap. Tanto en Argentina como en España, la importancia recaía en la letra sobre una base potente y clara. El título de esta canción es un guiño al apellido del rapper, Ribba, escrito en números. “Pensé que era más complicado, ahora entiendo por qué hay tantos tarados con la bola de que son Young Beef, pero contra mí se van a ir viciados”, dice parte de la composición. 21334 será más tarde versionada dos años después por él mismo en una Redbull Session de la mano de Big Menu y un vídeo mucho más profesional.  
-### Tabla de su participacón en competencias
+### Tabla de su participación en competencias
 | Año | Quinto escalón | fms | red bull |
 | ----- | ----- | ----- | -----|
 | 2015 | Si | No | No |
