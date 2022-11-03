@@ -4,13 +4,13 @@
 
 ### Indice
 
-- [¿Quién es Dani Ribba?](https://github.com/wilsonreino/wilson#sus-inicios-en-la-m%C3%BAsica)
-- [Sus inicios en la música](#sus-inicios-en-la-música)
-- [Primeros temas musicales](Su-paticipación-en-la-FM-y-Red-Bull)
-- [Tabla de su participación en competencias](Tabla-de-su-participación-en-competencias)
-- [Género musical](Género-musical)
-- [Portada primer album](Portada-primer-album)
-- [Bibliografía](Bibliografía)
+- [¿Quién es Dani Ribba?](https://github.com/wilsonreino/wilson#qu%C3%ADen-es-dani-ribba)
+- [Sus inicios en la música](https://github.com/wilsonreino/wilson/edit/main/README.md#sus-inicios-en-la-m%C3%BAsica)
+- [Cual fue su primera canción](https://github.com/wilsonreino/wilson/edit/main/README.md#cu%C3%A1l-fue-su-primera-canci%C3%B3n)
+- [Tabla de su participación en competencias](https://github.com/wilsonreino/wilson/edit/main/README.md#tabla-de-su-participaci%C3%B3n-en-competencias)
+- [Género musical](https://github.com/wilsonreino/wilson/edit/main/README.md#g%C3%A9nero--musical)
+- [Portada primer album](https://github.com/wilsonreino/wilson/edit/main/README.md#portada-primer-album)
+- [Bibliografía](https://github.com/wilsonreino/wilson/edit/main/README.md#bibliograf%C3%ADa)
 
 
 ### ¿Quíen es Dani Ribba?
