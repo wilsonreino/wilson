@@ -9,6 +9,7 @@
 - [Primeros temas musicales](Su-paticipación-en-la-FM-y-Red-Bull)
 - [Tabla de su participación en competencias](Tabla-de-su-participación-en-competencias)
 - [Género musical](Género-musical)
+- [Portada primer album](Portada-primer-album)
 - [Bibliografía](Bibliografía)
 
 
@@ -39,6 +40,9 @@ Su salto a la música fue con 21334, un tema que alcanza ya los 22 millones de v
 -[x]reguetton  
 -[x]rap  
 -[ ]pop
+### Portada primer album
+![dani ribba](https://user-images.githubusercontent.com/115487558/199631883-9241343a-2643-4ef0-884f-54d1c3f2398d.jpg)
+
 ### Bibliografía
 1. [Los 40](https://los40.com/los40/2020/11/25/los40urban/1606308897_596870.html)
 2. [Buenamúsica](https://www.buenamusica.com/dani-ribba/biografia)
